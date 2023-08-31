@@ -1,3 +1,5 @@
+// The obligatory Hello World! program
+
 package main
 
 import "fmt"
